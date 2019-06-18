@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Line>
+    <A>-0.75441526144482907</A>
+    <B>0.627293712751611</B>
+    <C>0</C>
+  </Line>
+  <Line>
+    <A>6.292735413784504</A>
+    <B>1.8932335515940717</B>
+    <C>0</C>
+  </Line>
+  <Line>
+    <A>4.3781299662674451</A>
+    <B>-1.7187410889746349</B>
+    <C>3.638905701990661</C>
+  </Line>
+  <Line>
+    <A>-1.7121335164234663</A>
+    <B>0.028311230255435794</B>
+    <C>-0.98896709875621225</C>
+  </Line>
+</ArrayOfLine>
